@@ -14,6 +14,7 @@ def assembled_aoh
     KATE_G,
     BRUCE_G
     ]
+  return arrHash
 end
 
 def literal_aoh
